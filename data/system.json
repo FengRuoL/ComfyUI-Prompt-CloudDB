@@ -1,0 +1,54 @@
+{
+  "models": {
+    "main_models": {
+      "illustrious_1774870289940": {
+        "name": "Illustrious",
+        "categories": [
+          {
+            "id": "custom",
+            "name": "导入分类"
+          }
+        ],
+        "modes": {
+          "画师_1774870308797": {
+            "name": "画师",
+            "group": "custom"
+          }
+        }
+      },
+      "anima_1774870297127": {
+        "name": "Anima",
+        "categories": [
+          {
+            "id": "custom",
+            "name": "导入分类"
+          }
+        ],
+        "modes": {
+          "画师_1774870325671": {
+            "name": "画师",
+            "group": "custom"
+          }
+        }
+      },
+      "服装库_1780059690956": {
+        "name": "服装库",
+        "categories": [
+          {
+            "id": "custom",
+            "name": "默认二级分类"
+          }
+        ],
+        "modes": {
+          "import_dir_1780060356": {
+            "name": "更衣人偶",
+            "group": "custom"
+          }
+        }
+      }
+    }
+  },
+  "settings": {
+    "max_width": 900
+  }
+}
