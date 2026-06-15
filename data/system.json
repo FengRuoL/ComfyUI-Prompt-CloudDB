@@ -1,6 +1,51 @@
 {
   "models": {
     "main_models": {
+      "anima_1774870297127": {
+        "name": "Anima-个人",
+        "categories": [
+          {
+            "id": "custom",
+            "name": "导入分类"
+          }
+        ],
+        "modes": {
+          "画师_1774870325671": {
+            "name": "画师",
+            "group": "custom"
+          }
+        }
+      },
+      "illustrious_1774870289940": {
+        "name": "Illustrious",
+        "categories": [
+          {
+            "id": "custom",
+            "name": "导入分类"
+          }
+        ],
+        "modes": {
+          "画师_1774870308797": {
+            "name": "画师",
+            "group": "custom"
+          }
+        }
+      },
+      "服装库_1780059690956": {
+        "name": "服装库-更衣人偶",
+        "categories": [
+          {
+            "id": "custom",
+            "name": "默认二级分类"
+          }
+        ],
+        "modes": {
+          "import_dir_1780060356": {
+            "name": "更衣人偶",
+            "group": "custom"
+          }
+        }
+      },
       "anima": {
         "name": "Anima画师浏览器-4w画师",
         "categories": [
@@ -137,51 +182,6 @@
           "mode_Z": {
             "name": "首字母 Z",
             "group": "cat_5"
-          }
-        }
-      },
-      "anima_1774870297127": {
-        "name": "Anima-个人",
-        "categories": [
-          {
-            "id": "custom",
-            "name": "导入分类"
-          }
-        ],
-        "modes": {
-          "画师_1774870325671": {
-            "name": "画师",
-            "group": "custom"
-          }
-        }
-      },
-      "illustrious_1774870289940": {
-        "name": "Illustrious",
-        "categories": [
-          {
-            "id": "custom",
-            "name": "导入分类"
-          }
-        ],
-        "modes": {
-          "画师_1774870308797": {
-            "name": "画师",
-            "group": "custom"
-          }
-        }
-      },
-      "服装库_1780059690956": {
-        "name": "服装库-更衣人偶",
-        "categories": [
-          {
-            "id": "custom",
-            "name": "默认二级分类"
-          }
-        ],
-        "modes": {
-          "import_dir_1780060356": {
-            "name": "更衣人偶",
-            "group": "custom"
           }
         }
       }
