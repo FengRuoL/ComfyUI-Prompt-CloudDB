@@ -1,6 +1,160 @@
 {
   "models": {
     "main_models": {
+      "anima": {
+        "name": "Anima画师浏览器-4w画师",
+        "categories": [
+          {
+            "id": "cat_0",
+            "name": "0-9与特殊字符"
+          },
+          {
+            "id": "cat_1",
+            "name": "A - E"
+          },
+          {
+            "id": "cat_2",
+            "name": "F - J"
+          },
+          {
+            "id": "cat_3",
+            "name": "K - O"
+          },
+          {
+            "id": "cat_4",
+            "name": "P - T"
+          },
+          {
+            "id": "cat_5",
+            "name": "U - Z"
+          }
+        ],
+        "modes": {
+          "mode_symbol": {
+            "name": "0-9 与 符号",
+            "group": "cat_0"
+          },
+          "mode_A": {
+            "name": "首字母 A",
+            "group": "cat_1"
+          },
+          "mode_B": {
+            "name": "首字母 B",
+            "group": "cat_1"
+          },
+          "mode_C": {
+            "name": "首字母 C",
+            "group": "cat_1"
+          },
+          "mode_D": {
+            "name": "首字母 D",
+            "group": "cat_1"
+          },
+          "mode_E": {
+            "name": "首字母 E",
+            "group": "cat_1"
+          },
+          "mode_F": {
+            "name": "首字母 F",
+            "group": "cat_2"
+          },
+          "mode_G": {
+            "name": "首字母 G",
+            "group": "cat_2"
+          },
+          "mode_H": {
+            "name": "首字母 H",
+            "group": "cat_2"
+          },
+          "mode_I": {
+            "name": "首字母 I",
+            "group": "cat_2"
+          },
+          "mode_J": {
+            "name": "首字母 J",
+            "group": "cat_2"
+          },
+          "mode_K": {
+            "name": "首字母 K",
+            "group": "cat_3"
+          },
+          "mode_L": {
+            "name": "首字母 L",
+            "group": "cat_3"
+          },
+          "mode_M": {
+            "name": "首字母 M",
+            "group": "cat_3"
+          },
+          "mode_N": {
+            "name": "首字母 N",
+            "group": "cat_3"
+          },
+          "mode_O": {
+            "name": "首字母 O",
+            "group": "cat_3"
+          },
+          "mode_P": {
+            "name": "首字母 P",
+            "group": "cat_4"
+          },
+          "mode_Q": {
+            "name": "首字母 Q",
+            "group": "cat_4"
+          },
+          "mode_R": {
+            "name": "首字母 R",
+            "group": "cat_4"
+          },
+          "mode_S": {
+            "name": "首字母 S",
+            "group": "cat_4"
+          },
+          "mode_T": {
+            "name": "首字母 T",
+            "group": "cat_4"
+          },
+          "mode_U": {
+            "name": "首字母 U",
+            "group": "cat_5"
+          },
+          "mode_V": {
+            "name": "首字母 V",
+            "group": "cat_5"
+          },
+          "mode_W": {
+            "name": "首字母 W",
+            "group": "cat_5"
+          },
+          "mode_X": {
+            "name": "首字母 X",
+            "group": "cat_5"
+          },
+          "mode_Y": {
+            "name": "首字母 Y",
+            "group": "cat_5"
+          },
+          "mode_Z": {
+            "name": "首字母 Z",
+            "group": "cat_5"
+          }
+        }
+      },
+      "anima_1774870297127": {
+        "name": "Anima-个人",
+        "categories": [
+          {
+            "id": "custom",
+            "name": "导入分类"
+          }
+        ],
+        "modes": {
+          "画师_1774870325671": {
+            "name": "画师",
+            "group": "custom"
+          }
+        }
+      },
       "illustrious_1774870289940": {
         "name": "Illustrious",
         "categories": [
@@ -16,23 +170,8 @@
           }
         }
       },
-      "anima_1774870297127": {
-        "name": "Anima",
-        "categories": [
-          {
-            "id": "custom",
-            "name": "导入分类"
-          }
-        ],
-        "modes": {
-          "画师_1774870325671": {
-            "name": "画师",
-            "group": "custom"
-          }
-        }
-      },
       "服装库_1780059690956": {
-        "name": "服装库",
+        "name": "服装库-更衣人偶",
         "categories": [
           {
             "id": "custom",
